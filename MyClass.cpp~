@@ -3,7 +3,6 @@
 #include<iostream>
 using namespace std;
 #include "MyClass.h"
-#include <string>
 
 void MyClass::setNum (int v)
 {
