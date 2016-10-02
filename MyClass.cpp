@@ -1,7 +1,6 @@
 //Implementation file
 
 #include<iostream>
-using namespace std;
 #include "MyClass.h"
 #include <string>
 
