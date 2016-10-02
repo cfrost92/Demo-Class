@@ -1,0 +1,73 @@
+<<<<<<< HEAD
+//Implementation file
+
+#include<iostream>
+#include "MyClass.h"
+#include <string>
+
+void MyClass::setNum (int v)
+{
+	num=v;
+}
+
+int MyClass::getNum ()
+{
+	return num;
+}
+
+void MyClass::setRoom (string x)
+{
+	room = x;
+}
+
+string MyClass::getRoom()
+{
+	return room;
+}
+
+void MyClass::setFun(bool y)
+{
+	fun = y;
+}
+
+bool MyClass::getFun()
+{
+	return fun;
+}
+=======
+//implementation file 
+#include "MyClass.h" 
+
+
++void MyClass::setNum(int v)
++{
++	num = v;
++}
++
++int MyClass::getNum
++{
++	return num;
++}
++
++void MyClass::setRoom(string w)
++{
++	room = w;
++}
++
++string MyClass::getRoom
++{
++	return room;
++}
++
++void MyClass::setFun(bool x)
++{
++	fun = x;
++}
++
++bool MyClass::getFun
++{
++	return x;
++}
+>>>>>>> f08af286dc25e83bf4744121a77a734bf0b42382
+
+
